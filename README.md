@@ -3,4 +3,4 @@
 - Feel free to use this template anyhow and anywhere you want. 
 - Released under gpl v3
 
-Read the [blog post]() for more details on how to use this. 
+Read the [blog post](https://medium.com/analytics-vidhya/how-to-deploy-simple-machine-learning-models-for-free-56cdccc62b8d) for more details on how to use this. 
